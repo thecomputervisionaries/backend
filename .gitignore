@@ -27,7 +27,6 @@ node_modules
 # Mongo
 data/db/**/*
 data/**/*
-aircraft/*
 uploads/*
 
 # Native mac
